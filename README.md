@@ -17,11 +17,11 @@ For this project I'm setting the folowing goals:
 
 ## Tasks
 
--[x] Project planning
--[ ] Write/Find list of jokes (at least 10)
--[ ] Write the HTML file
--[ ] Structure the project files and folders
--[ ] Write JS module for reading messages from the .CSV file
--[ ] Write JS module for interacting with the HTML
--[ ] Write JS main.js to glue everything together
--[ ] Periodically commit changes to Git
+- [x] Project planning
+- [ ] Write/Find list of jokes (at least 10)
+- [ ] Write the HTML file
+- [ ] Structure the project files and folders
+- [ ] Write JS module for reading messages from the .CSV file
+- [ ] Write JS module for interacting with the HTML
+- [ ] Write JS main.js to glue everything together
+- [ ] Periodically commit changes to Git
