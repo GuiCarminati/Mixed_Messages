@@ -8,7 +8,6 @@ function loadJokes(callback) {
   });
 }
 
-// Usage:
 loadJokes((loadedJokes) => {
-  console.log(loadedJokes); // Works here
+  // console.log(loadedJokes); 
 });

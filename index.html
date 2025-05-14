@@ -10,8 +10,10 @@
     <div class="pagebody">
         <h1>Mixed Messages: Bad Jokes</h1>
         <p id="p_description">Press the button for a <s>bad</s> joke!</p>
-        <button id="joke_button">Give me a joke!</button>
         <p id="joke" class="joke">[Joke here]</p>
         <p id="punchline" class="joke">[Punchline here]</p>
+        <button id="joke_button">Give me a joke!</button>
+        <input type="number" id="stepCounter" value="0" min="0" max="2" hidden>
     </div>
+    <script src="./modules/updateJokes.js"></script>
 </body>
