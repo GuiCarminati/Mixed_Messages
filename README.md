@@ -21,7 +21,6 @@ For this project I'm setting the folowing goals:
 * [x] Write/Find list of jokes (at least 10)
 * [x] Write the HTML file
 * [x] Structure the project files and folders
-* [ ] Write JS module for reading messages from the .CSV file
-* [ ] Write JS module for interacting with the HTML
-* [ ] Write JS main.js to glue everything together
-* [ ] Periodically commit changes to Git
+* [x] Write JS module for reading messages from the .CSV file
+* [x] Write JS module for interacting with the HTML
+* [x] Periodically commit changes to Git
