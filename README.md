@@ -22,6 +22,5 @@ For this project I'm setting the folowing goals:
 * [x] Write the HTML file
 * [x] Structure the project files and folders
 * [x] Write JS module for reading messages from the .CSV file
-* [ ] Write JS module for interacting with the HTML
-* [ ] Write JS main.js to glue everything together
+* [x] Write JS module for interacting with the HTML
 * [x] Periodically commit changes to Git
